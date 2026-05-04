@@ -4,7 +4,7 @@
 
 Oi, eu sou o [seu nome aqui] e este é o espaço onde compartilho minha jornada de aprendizado durante o desafio **May The Fourth 2026**, realizado pelo [balta.io](https://balta.io). 🥳
 
-Aqui você vai encontrar projetos, exercícios e códigos que estou desenvolvendo durante o desafio. O objetivo do desafio foi implementar agentes e inteligência artificial em cenários reais, resolvendo problemas do dia-a-dia com Microsoft Agent Framework, C# e .NET.
+Aqui você vai encontrar projetos, exercícios e códigos que estou desenvolvendo durante o desafio.
 
 ### Sobre o desafio
 O desafio **May The Fourth 2026** consiste em implementar agentes e inteligência artificial em cenários reais, resolvendo problemas do dia-a-dia com Microsoft Agent Framework, C# e .NET:
